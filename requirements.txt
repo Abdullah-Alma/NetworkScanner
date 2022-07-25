@@ -1,0 +1,4 @@
+to run the program you need to install two python packages
+1- netifaces --> pip3 install netifaces
+2- mac_vendor_lookup --> pip3 install mac_vendor_lookup
+and you're good to go 
