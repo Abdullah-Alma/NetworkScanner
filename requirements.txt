@@ -1,4 +1,5 @@
 to run the program you need to install two python packages
 1- netifaces --> pip3 install netifaces
 2- mac_vendor_lookup --> pip3 install mac_vendor_lookup
+3- scapy --> pip3 install scapy-python3
 and you're good to go 
